@@ -14,7 +14,7 @@
 
    <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <postgres.version>42.0.0.jre7</postgres.version>
+        <postgres.version>42.2.14.jre7</postgres.version>
     </properties>
     <name>Cakeshop Node Manager</name>
     
