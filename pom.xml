@@ -31,7 +31,7 @@
     <guava.version>23.0</guava.version>
     <dropwizard-metrics.version>3.1.2</dropwizard-metrics.version>
     <hsqldb.version>2.3.3</hsqldb.version>
-    <mysql.version>5.1.9</mysql.version>
+    <mysql.version>5.1.49</mysql.version>
     <postgres.version>9.3-1102-jdbc41</postgres.version>
     <oracle.version>11.2.0.4</oracle.version>
     <tessera.version>0.10.4</tessera.version>
